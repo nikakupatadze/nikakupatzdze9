@@ -11,6 +11,8 @@
 header{
     width: 100%;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
     gap:480px;
     margin: 0 auto;
 }
@@ -22,16 +24,13 @@ header{
     display: none;
 } */
 .img1{
-    padding-left: 147px;
-    padding-top: 30px;
+    
 }
 ul{
     font-size: 36px;
     color: white;
     display: flex;
     gap: 55px;
-    padding-top: 52px;
-    padding-right: 34px;
     
 }
 li{
